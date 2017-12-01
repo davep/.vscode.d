@@ -1,0 +1,7 @@
+// My overrides for vscode config.
+
+{
+    "workbench.colorTheme": "Quiet Light",
+    "editor.multiCursorModifier": "alt",
+    "files.trimTrailingWhitespace": true
+}
